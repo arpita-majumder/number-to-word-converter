@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "NumberToWordAPI.Controllers.NumberToWordController",
+    "Method": "ConvertNumberToWord",
+    "RelativePath": "NumberToWord/ConvertNumberToWord/{numberToConvert}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "numberToConvert",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

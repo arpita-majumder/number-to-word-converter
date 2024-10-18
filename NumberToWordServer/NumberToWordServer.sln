@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToWordTests", "NumberToWordTests\NumberToWordTests.csproj", "{FCE0E82B-E17E-4291-8500-FDB3D05C86AF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumberToWordAPI", "NumberToWordAPI\NumberToWordAPI.csproj", "{0479A2DD-6AFB-4911-8B0D-00E4707371F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE0E82B-E17E-4291-8500-FDB3D05C86AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE0E82B-E17E-4291-8500-FDB3D05C86AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE0E82B-E17E-4291-8500-FDB3D05C86AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE0E82B-E17E-4291-8500-FDB3D05C86AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0479A2DD-6AFB-4911-8B0D-00E4707371F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0479A2DD-6AFB-4911-8B0D-00E4707371F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0479A2DD-6AFB-4911-8B0D-00E4707371F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0479A2DD-6AFB-4911-8B0D-00E4707371F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED428E05-AEA8-4C1D-A827-F1BEF6FC9C6A}
+	EndGlobalSection
+EndGlobal

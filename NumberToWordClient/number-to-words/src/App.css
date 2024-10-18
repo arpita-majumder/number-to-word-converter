@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  padding: 2rem;
+}
+
+.input-section {
+  margin: 2rem 0;
+}
+
+input {
+  padding: 0.5rem;
+  margin-right: 1rem;
+  width: 200px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+}
+
+.output-section {
+  margin: 1rem 0;
+}
+
+.error {
+  color: red;
+}
